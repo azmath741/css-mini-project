@@ -5,7 +5,7 @@ This project is a simple sidebar menu designed for a videography-themed webpage 
 🔗 Live Preview
 
  Click here to view the live project
-👉https://azmath741.github.io/
+👉 https://azmath741.github.io/css-mini-project/
 
 
 
